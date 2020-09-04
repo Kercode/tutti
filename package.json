@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "jquery-ujs": "^1.2.2",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "description": "<div align=\"center\">   <a href=\"https://github.com/bbatsov/ruby-style-guide\">     <img src=\"https://img.shields.io/badge/guideline-rubocop-blue.svg?longCache=true&style=flat\" alt=\"Rubocop\" />   </a>",
   "version": "1.0.0",
